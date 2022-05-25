@@ -1,0 +1,3 @@
+C:/Projects/barber/build/CMakeFiles/BasicClassAndObject.dir
+C:/Projects/barber/build/CMakeFiles/edit_cache.dir
+C:/Projects/barber/build/CMakeFiles/rebuild_cache.dir
